@@ -1,0 +1,148 @@
+.main{
+    border: 1px solid;
+    width: 63%;
+    height: 600px;
+    background-color: rgb(4, 4, 89);
+    display: flex;
+    padding: 10px;
+    align-items: center;
+}
+body{
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}
+.twodiv{
+    position: relative;
+    padding-left: 30px;
+
+}
+.one{
+ background-color: rgb(3, 3, 141);
+ width: 250px;
+ height: 430px;
+ border-radius: 10px;
+
+}
+.two{
+    background-color: rgb(142, 135, 235);
+    width: 250px;
+    height: 290px;
+    border-radius: 10px;
+    position: absolute;
+    top: 0px;    
+}
+.profil{
+    height: 50px;
+    border-radius: 50px;
+    padding: 20px;
+}
+
+.report{
+    color: white;
+    padding: 10px;
+}
+.jeremy{
+    color: white;
+    width: 50px;
+    padding-left: 10px;
+
+}
+.three{
+    padding-top: 300px;
+    padding-left: 20px;
+    color: rgb(88, 88, 230);
+}
+.week{
+    color: white;
+}
+.mainsix{
+    width: 800px;
+    padding-top: 20px;
+    padding: 20px;
+}
+.subone{
+    display: flex;
+    gap: 10px;
+
+}
+.workdiv{
+    position: relative;
+}
+.work1{
+  border: 1px solid;
+  background-color: rgb(5, 5, 159);
+  position: absolute;
+  width: 200px;
+  height: 150px;
+  top: 50px;
+  border-radius: 15px;
+}
+.work2{
+ border: 1px solid;
+ background-color: orange;
+ width: 200px;
+ height: 200px;
+ border-radius: 15px;
+}
+.hrs{
+    padding-left: 10px;
+    color: white;
+}
+.work{
+    padding-left: 10px;
+    color: white;
+}
+.lastweek{
+    color: rgb(115, 0, 255);
+    padding-left: 10px;
+}
+.work3{
+    background-color: aqua;
+    width: 200px;
+    height: 200px;
+    border-radius: 15px;
+    border: 1px solid;
+}
+.work4{
+    background-color: rgb(248, 103, 127);
+    width: 200px;
+    height: 200px;
+    border-radius: 15px;
+    border: 1px solid;
+
+}
+.subtwo{
+    display: flex;
+    gap: 10px;
+    padding-top: 20px;
+}
+.work5{
+    background-color: rgb(4, 222, 77);
+    width: 200px;
+    height: 200px;
+    border-radius: 15px;
+    border: 1px solid;
+}
+.work6{
+    background-color: blueviolet;
+    width: 200px;
+    height: 200px;
+    border-radius: 15px;
+    border: 1px solid;
+}
+.work7{
+    background-color: gold;
+    width: 200px;
+    height: 200px;
+    border-radius: 15px;
+    border: 1px solid;
+    
+}
+.run{
+    height: 50px;
+    position: absolute;
+    left: 150px;
+    transform: rotate(45deg);
+    opacity: 0.2;
+}
